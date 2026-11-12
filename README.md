@@ -1,22 +1,28 @@
-# SQL Practice & Excel Dashboard
-This repository contains my SQL practice solutions from LeetCode and my Excel Dashboard Project.
+## SQL Practice
 
-## Skills
--SQL(MySQL)
--Excel Dashboard
--Pivot Tables
--Charts
--Data Analysis
+This repository contains my SQL practice solutions, covering basic to intermediate SQL concepts through hands-on problem-solving.
 
-## Projects
+## Skills Demonstrated
 
-### SQL Practice 
-=LeetCode SQL Solutions
--Basic to Intermediate SQL
+- SQL querying
+- Filtering and sorting
+- Aggregate functions
+- GROUP BY and HAVING
+- Joins
+- Subqueries
+- Window functions
 
 ## Tools Used
--MySQL
--Microsoft Excel
--Github
 
-Currently learning Data Analytics and Improving skills
+- MySQL
+- GitHub
+
+## Practice
+
+- SQL problems from LeetCode
+- Query writing and problem-solving
+- Basic to intermediate SQL concepts
+
+## About
+
+I am developing my SQL skills as part of my learning journey in Data Analytics and Business Intelligence.
