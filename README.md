@@ -19,4 +19,4 @@ This repository contains my SQL practice solutions from LeetCode and my Excel Da
 -Microsoft Excel
 -Github
 
-Currently learning Data Alaytics and Improving skills
+Currently learning Data Analytics and Improving skills
