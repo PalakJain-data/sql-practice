@@ -19,7 +19,7 @@ This repository contains my SQL practice solutions, covering basic to intermedia
 
 ## Practice
 
-- SQL problems from LeetCode
+- 25 SQL problems from LeetCode
 - Query writing and problem-solving
 - Basic to intermediate SQL concepts
 
